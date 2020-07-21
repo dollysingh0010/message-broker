@@ -14,8 +14,9 @@ Install ActiveMQ. Follow below instruction to install
 Getting started
 
 Clone this repository and navigate into it
-Install all dependencies - npm install 
+Install all dependencies
+npm install 
  
-How to use
+Instruction to use 
 Sample example and message payload is given in test.js file (src/utilities/messageSrv)
 
