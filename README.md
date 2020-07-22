@@ -20,3 +20,13 @@ npm install
 Instruction to use 
 Sample example and message payload is given in test.js file (src/utilities/messageSrv)
 
+Mandatory field to produce message  - 
+message - JSON Object
+senderName - String,
+ueueName  - String 
+
+Optional field to produce messages -
+priority - 0-9 any number,
+ttl        :null or time in millisecond,
+durable    : Boolean
+
